@@ -1,5 +1,4 @@
-# InterviewPreparationKit-HackerRank
-# 🐍 InterviewPreparationKit-HackerRank(Using Python)
+# 🐍 InterviewPreparationKit in HackerRank(Using Python)
 
 <div style='float: center; text-align: center; margin-bottom: 20px' >
   <a href='https://github.com/hansapradhan/InterviewPreparationKit-HackerRank' target="_blank">
